@@ -1,0 +1,79 @@
+﻿Name,Avg_score,Category,Level
+Allkinds,38.9,,1
+PREVENTION,28.4,,2
+EARLY,32.3,,2
+RAPID,37.6,,2
+SUFFICIENT,31.5,,2
+COMMITMENTS,47.8,,2
+AMR surveillance,28.44820513,PREVENTION,3
+Antimicrobial control,35.30615385,PREVENTION,3
+Planning for zoonotic diseases,55.38461538,PREVENTION,3
+Surveillance systems,29.87179487,PREVENTION,3
+Intl reporting of animal disease outbreaks,35.89794872,PREVENTION,3
+Animal health workforce,13.33333333,PREVENTION,3
+Private sector and ZD,9.758461538,PREVENTION,3
+Government biosecurity systems,15.48717949,PREVENTION,3
+Biosecurity training,4.615384615,PREVENTION,3
+Personnel vetting,3.417948718,PREVENTION,3
+Transportation security,37.94871795,PREVENTION,3
+Cross-border transfer,31.79487179,PREVENTION,3
+Government biosafety systems,32.05128205,PREVENTION,3
+Oversight of dual-use research,4.274358974,PREVENTION,3
+Screening for genetic material,1.025641026,PREVENTION,3
+Vaccination rates,63.33333333,PREVENTION,3
+Lab capacity for disease detection,34.61538462,EARLY,3
+Laboratory quality systems,55.12820513,EARLY,3
+Specimen referral and transport system,28.20512821,EARLY,3
+Laboratory cooperation,3.58974359,EARLY,3
+Indicator and event-based surveillance and reporting systems,29.87179487,EARLY,3
+Real-time reporting systems,39.23076923,EARLY,3
+Coverage of electronic health records,32.91333333,EARLY,3
+Data integration,30.76923077,EARLY,3
+Transparency of surveillance data,23.07692308,EARLY,3
+Ethical considerations during surveillance,52.82051282,EARLY,3
+International data sharing,34.1025641,EARLY,3
+Case investigation and contact tracing,13.84615385,EARLY,3
+Point of entry management,20,EARLY,3
+Existence of  epidemiology training program,67.43589744,EARLY,3
+Epidemiology workforce capacity,25.64102564,EARLY,3
+National public health emergency plan,27.24358974,RAPID,3
+Private sector involvement in response planning,10.76923077,RAPID,3
+Non-pharmaceutical interventions planning,53.07692308,RAPID,3
+Activating response plans,41.66666667,RAPID,3
+Private sector engagement in exercises,0.512820513,RAPID,3
+Emergency response operation,26.98871795,RAPID,3
+Authorities linked for a biological event,22.05128205,RAPID,3
+Risk communication planning,32.30666667,RAPID,3
+Public health systems communication,83.46153846,RAPID,3
+Internet users,55.10153846,RAPID,3
+Mobile subscribers,49.06974359,RAPID,3
+Female access to a mobile phone,86.03435897,RAPID,3
+Female access to the Internet,72.62051282,RAPID,3
+Trade restrictions,69.74358974,RAPID,3
+Travel restrictions,8.205128205,RAPID,3
+HR for the broader healthcare system,23.12358974,SUFFICIENT,3
+Facilities capacity,36.93435897,SUFFICIENT,3
+Laboratory system supply,51.02564103,SUFFICIENT,3
+Stockpiling for emergencies,17.69025641,SUFFICIENT,3
+Manufacturing for emergencies,16.92307692,SUFFICIENT,3
+System for dispensing MCMs,9.230769231,SUFFICIENT,3
+System for receiving foreign health personnel,11.28205128,SUFFICIENT,3
+Access to healthcare,70.26410256,SUFFICIENT,3
+Paid medical leave,93.33333333,SUFFICIENT,3
+Healthcare worker access to healthcare,2.051282051,SUFFICIENT,3
+Communication with healthcare workers,10.76923077,SUFFICIENT,3
+HCAI monitoring,40.51282051,SUFFICIENT,3
+RP for clinical trials of unregistered interventions,38.20512821,SUFFICIENT,3
+RP for approving medical countermeasures,52.05128205,SUFFICIENT,3
+Official IHR reporting,88.20512821,COMMITMENTS,3
+Integration of health into disaster risk reduction,28.71794872,COMMITMENTS,3
+Cross-border agreements,50,COMMITMENTS,3
+Participation in IA,73.8,COMMITMENTS,3
+Voluntary memberships,38.46153846,COMMITMENTS,3
+Publication of a JEE assessment,30.51282051,COMMITMENTS,3
+Publication of a PVS assessment,6.923076923,COMMITMENTS,3
+National financing for epidemic preparedness ,20.51282051,COMMITMENTS,3
+Financing under JEE and PVS,1.025641026,COMMITMENTS,3
+Financing for emergency response,66.15384615,COMMITMENTS,3
+International commitments to address epidemic threats,53.16205128,COMMITMENTS,3
+Commitment to share data,68.40717949,COMMITMENTS,3

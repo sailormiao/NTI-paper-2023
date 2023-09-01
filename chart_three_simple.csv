@@ -1,0 +1,78 @@
+﻿Strategy ,Specific
+Allkinds,PREVENTION
+Allkinds,EARLY
+Allkinds,RAPID
+Allkinds,SUFFICIENT
+Allkinds,COMMITMENTS
+PREVENTION,AMR surveillance
+PREVENTION,Antimicrobial control
+PREVENTION,Planning for zoonotic diseases
+PREVENTION,Surveillance systems
+PREVENTION,Intl reporting of animal disease outbreaks
+PREVENTION,Animal health workforce
+PREVENTION,Private sector and ZD
+PREVENTION,Government biosecurity systems
+PREVENTION,Biosecurity training
+PREVENTION,Personnel vetting
+PREVENTION,Transportation security
+PREVENTION,Cross-border transfer
+PREVENTION,Government biosafety systems
+PREVENTION,Oversight of dual-use research
+PREVENTION,Screening for genetic material
+PREVENTION,Vaccination rates
+EARLY,Lab capacity for disease detection
+EARLY,Laboratory quality systems
+EARLY,Specimen referral and transport system
+EARLY,Laboratory cooperation
+EARLY,Indicator and event-based surveillance and reporting systems
+EARLY,Real-time reporting systems
+EARLY,Coverage of electronic health records
+EARLY,Data integration
+EARLY,Transparency of surveillance data
+EARLY,Ethical considerations during surveillance
+EARLY,International data sharing
+EARLY,Case investigation and contact tracing
+EARLY,Point of entry management
+EARLY,Existence of  epidemiology training program
+EARLY,Epidemiology workforce capacity
+RAPID,National public health emergency plan
+RAPID,Private sector involvement in response planning
+RAPID,Non-pharmaceutical interventions planning
+RAPID,Activating response plans
+RAPID,Private sector engagement in exercises
+RAPID,Emergency response operation
+RAPID,Authorities linked for a biological event
+RAPID,Risk communication planning
+RAPID,Public health systems communication
+RAPID,Internet users
+RAPID,Mobile subscribers
+RAPID,Female access to a mobile phone
+RAPID,Female access to the Internet
+RAPID,Trade restrictions
+RAPID,Travel restrictions
+SUFFICIENT,HR for the broader healthcare system
+SUFFICIENT,Facilities capacity
+SUFFICIENT,Laboratory system supply
+SUFFICIENT,Stockpiling for emergencies
+SUFFICIENT,Manufacturing for emergencies
+SUFFICIENT,System for dispensing MCMs
+SUFFICIENT,System for receiving foreign health personnel
+SUFFICIENT,Access to healthcare
+SUFFICIENT,Paid medical leave
+SUFFICIENT,Healthcare worker access to healthcare
+SUFFICIENT,Communication with healthcare workers
+SUFFICIENT,HCAI monitoring
+SUFFICIENT,RP for clinical trials of unregistered interventions
+SUFFICIENT,RP for approving medical countermeasures
+COMMITMENTS,Official IHR reporting
+COMMITMENTS,Integration of health into disaster risk reduction
+COMMITMENTS,Cross-border agreements
+COMMITMENTS,Participation in IA
+COMMITMENTS,Voluntary memberships
+COMMITMENTS,Publication of a JEE assessment
+COMMITMENTS,Publication of a PVS assessment
+COMMITMENTS,National financing for epidemic preparedness 
+COMMITMENTS,Financing under JEE and PVS
+COMMITMENTS,Financing for emergency response
+COMMITMENTS,International commitments to address epidemic threats
+COMMITMENTS,Commitment to share data
